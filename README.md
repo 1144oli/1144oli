@@ -22,9 +22,6 @@ Networking · Self-hosting · Virtualisation · Reverse proxies and VPNs · Digi
 ## Find me
 
 - 🌐 Site: [cyberoli.uk](https://cyberoli.uk)
-- 💼 LinkedIn: [add your link](https://linkedin.com/in/YOUR-HANDLE)
-- 📫 Email: your@email.com
+- 📫 Email: oliver@cyberoli.uk
 
-<!-- Optional, add once you have real activity:
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
--->
+
