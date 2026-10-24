@@ -1,10 +1,9 @@
 # Hi, I'm Oli 👋
 
-BSc Cyber Security with Forensics student at **Sheffield Hallam University**, President of the **Computing Society**, and currently looking for a placement.
+BSc Cyber Security with Forensics student at **Sheffield Hallam University**
 
 ## What I'm working on
 
-- 🗣️ **[Oyaple](https://github.com/YOUR-USERNAME/oyaple)**: a competitive 1v1 debate platform I design, build and run
 - 🖥️ **Homelab**: a Proxmox cluster running self-hosted services and game servers, with a live stats dashboard fed by a Cloudflare Worker
 - 🔐 Digital forensics and security coursework
 
