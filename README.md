@@ -5,7 +5,6 @@ BSc Cyber Security with Forensics student at **Sheffield Hallam University**
 ## What I'm working on
 
 - 🖥️ **Homelab**: a Proxmox cluster running self-hosted services and game servers, with a live stats dashboard fed by a Cloudflare Worker
-- 🔐 Digital forensics and security coursework
 
 ## Skills
 
